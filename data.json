@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Run",
+        "length": "1 hour 30 minutes",
+        "category_id": 1,
+        "year": 2020,
+        "age": "18+",
+        "language": "English",
+        "image": "https://i.ibb.co/ZNkdTcH/horror1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "There is Someone Inside Your House",
+        "length": "1 hour 36 minutes",
+        "category_id": 1,
+        "year": 2021,
+        "age": "18+",
+        "language": "English",
+        "image": "https://i.ibb.co/CVpY4P4/horror2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Red Notice",
+        "length": "1 hour 56 minutes",
+        "category_id": 2,
+        "year": 2021,
+        "age": "18+",
+        "language": "English",
+        "image": "https://i.ibb.co/hF4V9h2/action1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "The Gentlemen",
+        "length": "1 hour 53 minutes",
+        "category_id": 2,
+        "year": 2019,
+        "age": "18+",
+        "language": "English",
+        "image": "https://i.ibb.co/KNz2Cwb/action2.jpg"
+    },
+    {
+        "id": 5,
+        "name": "The Red Sea Diving Resort",
+        "length": "2 hours 9 minutes",
+        "category_id": 3,
+        "year": 2019,
+        "age": "18+",
+        "language": "English",
+        "image": "https://i.ibb.co/BPrwxch/thriller1.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Anon",
+        "length": "1 hour 40 minutes",
+        "category_id": 3,
+        "year": 2018,
+        "age": "18+",
+        "language": "English",
+        "image": "https://i.ibb.co/bLdsShM/thriller2.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Ordinary Love",
+        "length": "1 hour 32 minutes",
+        "category_id": 4,
+        "year": 2019,
+        "age": "18+",
+        "language": "English",
+        "image": "https://i.ibb.co/cFfdmvS/romantic1.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Rebecca",
+        "length": "2 hours 3 minutes",
+        "category_id": 4,
+        "year": 2020,
+        "age": "18+",
+        "language": "English",
+        "image": "https://i.ibb.co/LpcWWK3/romantic2.jpg"
+    }
+]
