@@ -1,18 +1,18 @@
 [
     {
         "id": 1,
-        "category": "horror movies"
+        "category": "Horror Movies"
     },
     {
         "id": 2,
-        "category": "action movies"
+        "category": "Action Movies"
     },
     {
         "id": 3,
-        "category": "thriller movies"
+        "category": "Thriller Movies"
     },
     {
         "id": 4,
-        "category": "romantic movies"
+        "category": "Romantic Movies"
     }
 ]
