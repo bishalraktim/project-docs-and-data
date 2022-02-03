@@ -1,0 +1,34 @@
+[
+    {
+      "_id": "6187738a62a1816f8858634e",
+      "location_id": 4,
+      "location_name": "Essendon North",
+      "state_id": 2,
+      "state": "VIC",
+      "country_name": "Australia"
+    },
+    {
+      "_id": "6187738a62a1816f8858634d",
+      "location_id": 1,
+      "location_name": "Darling Harbour",
+      "state_id": 1,
+      "state": "NSW",
+      "country_name": "Australia"
+    },
+    {
+      "_id": "6187738a62a1816f8858634f",
+      "location_id": 8,
+      "location_name": "Kings Heaven",
+      "state_id": 3,
+      "state": "WA",
+      "country_name": "Australia"
+    },
+    {
+      "_id": "6187738a62a1816f88586350",
+      "location_id": 13,
+      "location_name": "45 Park View Drive",
+      "state_id": 4,
+      "state": "VIC",
+      "country_name": "Australia"
+    }
+  ]

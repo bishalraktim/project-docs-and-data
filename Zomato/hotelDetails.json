@@ -1,0 +1,40 @@
+[
+    {
+        "_id": "618776b162a1816f885956c0",
+        "restaurant_id": 8,
+        "restaurant_name": "4/23 Water Bay Way",
+        "location_id": 3,
+        "state_id": 1,
+        "restaurant_thumb": "https://b.zmtcdn.com/data/pictures/3/18545893/37a4a121653b4c5e1b32000dc2357462.jpg",
+        "average_rating": 5,
+        "rating_text": "Excellent",
+        "cost": 20,
+        "address": "48 Scotia Street",
+        "mealTypes": [
+        {
+            "mealtype_id": 3,
+            "mealtype_name": "Dinner"
+        },
+        {
+            "mealtype_id": 1,
+            "mealtype_name": "Breakfast"
+        }
+        ],
+        "cuisines": [
+        {
+            "cuisine_id": 4,
+            "cuisine_name": "Fast Food"
+        },
+        {
+            "cuisine_id": 5,
+            "cuisine_name": "Street Food"
+        }
+        ],
+        "image_gallery": [
+        "https://b.zmtcdn.com/data/pictures/chains/9/1599/416315188e74d979d79f83de8588389b.jpg",
+        "https://b.zmtcdn.com/data/pictures/chains/9/1599/52cfbe709b5ca95ba69fac0c5a178493.jpg",
+        "https://b.zmtcdn.com/data/pictures/chains/9/1599/ceb6b94c68950a317e14860a2b4aef7c.jpg",
+        "https://b.zmtcdn.com/data/pictures/chains/9/1599/5df463c1ce26b817ec3ee5133d7eaae9.jpg"
+        ]
+    }
+]
