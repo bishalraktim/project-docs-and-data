@@ -78,5 +78,65 @@
         "age": "18+",
         "language": "English",
         "image": "https://i.ibb.co/LpcWWK3/romantic2.jpg"
+    },
+    {
+        "id": 9,
+        "name": "The 8th Night",
+        "length": "1 hour 55 minutes",
+        "category_id": 1,
+        "year": 2021,
+        "age": "18+",
+        "language": "English",
+        "image": "https://i.ibb.co/LpcWWK3/romantic2.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Cosmic Sin",
+        "length": "1 hour 28 minutes",
+        "category_id": 2,
+        "year": 2021,
+        "age": "18+",
+        "language": "English",
+        "image": "https://i.ibb.co/LpcWWK3/romantic2.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Alone",
+        "length": "1 hour 38 minutes",
+        "category_id": 3,
+        "year": 2020,
+        "age": "18+",
+        "language": "English",
+        "image": "https://i.ibb.co/LpcWWK3/romantic2.jpg"
+    },
+    {
+        "id": 12,
+        "name": "All The Bright Places",
+        "length": "1 hour 48 minutes",
+        "category_id": 4,
+        "year": 2020,
+        "age": "18+",
+        "language": "English",
+        "image": "https://i.ibb.co/LpcWWK3/romantic2.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Love and Monsters",
+        "length": "1 hour 48 minutes",
+        "category_id": 4,
+        "year": 2020,
+        "age": "18+",
+        "language": "English",
+        "image": "https://i.ibb.co/LpcWWK3/romantic2.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Oxygen",
+        "length": "1 hour 41 minutes",
+        "category_id": 1,
+        "year": 2021,
+        "age": "18+",
+        "language": "English",
+        "image": "https://i.ibb.co/LpcWWK3/romantic2.jpg"
     }
 ]
